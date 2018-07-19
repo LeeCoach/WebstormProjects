@@ -4,7 +4,7 @@ Webstorm Projects 前端项目学习
 
 第一次接触前端，对Webstorm入门进行了一些准备
 
-##webstorm设置技巧
+## webstorm设置技巧
 如何更改主题（字体&配色）:
 File -> settings -> Editor -> colors&fonts -> scheme name.主题下载地址
 
@@ -46,7 +46,7 @@ File ->plugins，然后就选择给力的插件们再安装.(“css-X-fire”插
 
 以后更新
 
-##webstorm使用心得
+## webstorm使用心得
 收藏夹功能:
 当工程目录很庞大时，有些子目录很经常打开，但层级又很深，这时候可以把目录添加到收藏夹里面，添加成功后，左侧有个“Favorites”菜单
 
@@ -71,8 +71,8 @@ webstorm中只集成了git的常用操作，并不能完全替代命令行工具
 查看当前代码与版本库代码的差异:
 右击代码界面任意区域，选择git -> compare with然后选择要比较的版本库。
 
-##webstorm快捷键说明
-###Editing编辑相关快捷键
+## webstorm快捷键说明
+### Editing编辑相关快捷键
 
 Ctrl + Space：
 Basic code completion (the name of any class, method or variable) 基本代码完成（任何类、函数或者变量名称），改为Alt+S
@@ -176,7 +176,7 @@ Collapse 缩减所有
 Ctrl + F4
 Close active editor tab 关闭活跃编辑标签
 
-###Search/replace搜索/替代相关快捷键
+### Search/replace搜索/替代相关快捷键
 
 Ctrl + F
 Find 当前文件内快速查找代码
@@ -196,7 +196,7 @@ Replace 当前文件内代码替代
 Ctrl + Shift + R
 Replace in path 指定文件内代码批量替代
 
-###Usage Search搜索相关快捷键
+### Usage Search搜索相关快捷键
 
 Alt + F7/Ctrl + F7
 Find usages/Find usages in file 找到使用/在文件找到使用
@@ -207,7 +207,7 @@ Highlight usages in file文件中精彩使用
 Ctrl + Alt + F7
 Show usages 显示使用
 
-###Running运行
+### Running运行
 
 Alt + Shift + F10
 Select configuration and run 选择构架，运行
@@ -227,7 +227,7 @@ Run context configuration from editor 从编辑运行内容构架
 Ctrl + Shift + X
 Run command line 运行命令行
 
-###Debugging Debugging相关快捷键
+### Debugging Debugging相关快捷键
 
 F8
 Step over 不进入函数
@@ -256,7 +256,7 @@ Toggle breakpoint 切换断点
 Ctrl + Shift + F8
 View breakpoints 查看断点
 
-###Navigation 定位相关快捷键
+### Navigation 定位相关快捷键
 
 Ctrl + N
 Go to class跳转到指定类
@@ -348,7 +348,7 @@ Go to numbered bookmark 跳转到带编号的标记
 Shift + F11
 Show bookmark 显示标记
 
-###Refactoring 重构相关快捷键
+### Refactoring 重构相关快捷键
 
 F5
 Copy 拷贝
@@ -377,7 +377,7 @@ Introduce Field 引入域
 Ctrl + Alt + C
 Introduce Constant 引入常量
 
-###VCS/Local History 版本控制系统/ 本地历史相关快捷键
+### VCS/Local History 版本控制系统/ 本地历史相关快捷键
 
 Alt +　BackQuote( )
 ‘VCS’quick popup 快速弹出 VCS
@@ -391,7 +391,7 @@ Update project from VCS 从VCS 更新项目
 Alt + Shift + C
 View recent changes 查看最新改变
 
-###General 常用的相关快捷键
+### General 常用的相关快捷键
 
 Ctrl + Shift +A
 Find action 查找并调用编辑器的功能
